@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{C7004E69-43E2-4A56-8A51-D19B53E7B305}|LankaretailERP\\LankaretailERP.csproj|solutionrelative:lankaretailerp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C7004E69-43E2-4A56-8A51-D19B53E7B305}|LankaretailERP\\LankaretailERP.csproj|d:\\source\\repos\\lankaretail\\lankaretailerp\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{C7004E69-43E2-4A56-8A51-D19B53E7B305}|LankaretailERP\\LankaretailERP.csproj|solutionrelative:lankaretailerp\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7004E69-43E2-4A56-8A51-D19B53E7B305}|LankaretailERP\\LankaretailERP.csproj|d:\\source\\repos\\lankaretail\\lankaretailerp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7004E69-43E2-4A56-8A51-D19B53E7B305}|LankaretailERP\\LankaretailERP.csproj|solutionrelative:lankaretailerp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C7004E69-43E2-4A56-8A51-D19B53E7B305}|LankaretailERP\\LankaretailERP.csproj|d:\\source\\repos\\lankaretail\\lankaretailerp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7004E69-43E2-4A56-8A51-D19B53E7B305}|LankaretailERP\\LankaretailERP.csproj|solutionrelative:lankaretailerp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,6 +35,47 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\App.xaml.cs",
+              "RelativeDocumentMoniker": "LankaretailERP\\App.xaml.cs",
+              "ToolTip": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\App.xaml.cs",
+              "RelativeToolTip": "LankaretailERP\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T18:23:38.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\App.xaml",
+              "RelativeDocumentMoniker": "LankaretailERP\\App.xaml",
+              "ToolTip": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\App.xaml",
+              "RelativeToolTip": "LankaretailERP\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-27T18:23:35.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
@@ -42,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\MainWindow.xaml.cs",
@@ -52,18 +101,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T18:15:45.582Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

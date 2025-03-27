@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LankaretailERP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dd49dc7d54752f72b61380436186d853507f997")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1404421e30bd6bc707c08ff06d7fff30d4be852")]
 [assembly: System.Reflection.AssemblyProductAttribute("LankaretailERP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LankaretailERP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
