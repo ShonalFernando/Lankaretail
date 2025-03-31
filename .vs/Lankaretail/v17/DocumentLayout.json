@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Source\\Repos\\Lankaretail\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C7004E69-43E2-4A56-8A51-D19B53E7B305}|LankaretailERP\\LankaretailERP.csproj|d:\\source\\repos\\lankaretail\\lankaretailerp\\viewmodel\\dyanamics\\dynamicviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7004E69-43E2-4A56-8A51-D19B53E7B305}|LankaretailERP\\LankaretailERP.csproj|solutionrelative:lankaretailerp\\viewmodel\\dyanamics\\dynamicviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7004E69-43E2-4A56-8A51-D19B53E7B305}|LankaretailERP\\LankaretailERP.csproj|d:\\source\\repos\\lankaretail\\lankaretailerp\\services\\datarepository\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7004E69-43E2-4A56-8A51-D19B53E7B305}|LankaretailERP\\LankaretailERP.csproj|solutionrelative:lankaretailerp\\services\\datarepository\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7004E69-43E2-4A56-8A51-D19B53E7B305}|LankaretailERP\\LankaretailERP.csproj|d:\\source\\repos\\lankaretail\\lankaretailerp\\model\\authorization\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7004E69-43E2-4A56-8A51-D19B53E7B305}|LankaretailERP\\LankaretailERP.csproj|solutionrelative:lankaretailerp\\model\\authorization\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C7004E69-43E2-4A56-8A51-D19B53E7B305}|LankaretailERP\\LankaretailERP.csproj|d:\\source\\repos\\lankaretail\\lankaretailerp\\model\\rewards\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7004E69-43E2-4A56-8A51-D19B53E7B305}|LankaretailERP\\LankaretailERP.csproj|solutionrelative:lankaretailerp\\model\\rewards\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C7004E69-43E2-4A56-8A51-D19B53E7B305}|LankaretailERP\\LankaretailERP.csproj|d:\\source\\repos\\lankaretail\\lankaretailerp\\model\\rewards\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7004E69-43E2-4A56-8A51-D19B53E7B305}|LankaretailERP\\LankaretailERP.csproj|solutionrelative:lankaretailerp\\model\\rewards\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7004E69-43E2-4A56-8A51-D19B53E7B305}|LankaretailERP\\LankaretailERP.csproj|d:\\source\\repos\\lankaretail\\lankaretailerp\\model\\authorization\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7004E69-43E2-4A56-8A51-D19B53E7B305}|LankaretailERP\\LankaretailERP.csproj|solutionrelative:lankaretailerp\\model\\authorization\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7004E69-43E2-4A56-8A51-D19B53E7B305}|LankaretailERP\\LankaretailERP.csproj|d:\\source\\repos\\lankaretail\\lankaretailerp\\model\\authorization\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -126,7 +134,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -137,8 +145,30 @@
               "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDataRepository.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Services\\DataRepository\\IDataRepository.cs",
+              "RelativeDocumentMoniker": "LankaretailERP\\Services\\DataRepository\\IDataRepository.cs",
+              "ToolTip": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Services\\DataRepository\\IDataRepository.cs",
+              "RelativeToolTip": "LankaretailERP\\Services\\DataRepository\\IDataRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:03:12.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DynamicViewModel.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\ViewModel\\Dyanamics\\DynamicViewModel.cs",
+              "RelativeDocumentMoniker": "LankaretailERP\\ViewModel\\Dyanamics\\DynamicViewModel.cs",
+              "ToolTip": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\ViewModel\\Dyanamics\\DynamicViewModel.cs",
+              "RelativeToolTip": "LankaretailERP\\ViewModel\\Dyanamics\\DynamicViewModel.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAmwBEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:54:55.721Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -146,15 +176,19 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "LoyaltyProgram.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Model\\Rewards\\LoyaltyProgram.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\Model\\Rewards\\LoyaltyProgram.cs",
@@ -162,12 +196,11 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Rewards\\LoyaltyProgram.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:44:22.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:44:22.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Coupon.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Model\\Rewards\\Coupon.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\Model\\Rewards\\Coupon.cs",
@@ -175,12 +208,11 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Rewards\\Coupon.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAmwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:44:01.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:44:01.686Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Promotion.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Model\\Rewards\\Promotion.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\Model\\Rewards\\Promotion.cs",
@@ -188,25 +220,24 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Rewards\\Promotion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:43:21.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:43:21.152Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AuditLog.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Model\\Authorization\\AuditLog.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\Model\\Authorization\\AuditLog.cs",
               "ToolTip": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Model\\Authorization\\AuditLog.cs",
               "RelativeToolTip": "LankaretailERP\\Model\\Authorization\\AuditLog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T07:38:53.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Model\\Authorization\\User.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\Model\\Authorization\\User.cs",
@@ -214,12 +245,11 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Authorization\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:38:25.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:38:25.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "EmployeePerformance.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Model\\Reporting\\EmployeePerformance.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\Model\\Reporting\\EmployeePerformance.cs",
@@ -227,12 +257,11 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Reporting\\EmployeePerformance.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:35:17.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:35:17.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "InventoryReport.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Model\\Reporting\\InventoryReport.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\Model\\Reporting\\InventoryReport.cs",
@@ -240,12 +269,11 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Reporting\\InventoryReport.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:34:52.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:34:52.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "SalesReport.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Model\\Reporting\\SalesReport.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\Model\\Reporting\\SalesReport.cs",
@@ -253,12 +281,11 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Reporting\\SalesReport.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:34:30.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:34:30.468Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "GoodsRecieved.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Model\\Purchasing\\GoodsRecieved.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\Model\\Purchasing\\GoodsRecieved.cs",
@@ -266,12 +293,11 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Purchasing\\GoodsRecieved.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:26:05.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:26:05.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "PurchaseOrderItem.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Model\\Purchasing\\PurchaseOrderItem.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\Model\\Purchasing\\PurchaseOrderItem.cs",
@@ -279,12 +305,11 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Purchasing\\PurchaseOrderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:25:28.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:25:28.277Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "PurchaseOrder.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Model\\Purchasing\\PurchaseOrder.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\Model\\Purchasing\\PurchaseOrder.cs",
@@ -292,12 +317,11 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Purchasing\\PurchaseOrder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:25:01.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:25:01.666Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Supplier.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Model\\Purchasing\\Supplier.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\Model\\Purchasing\\Supplier.cs",
@@ -305,12 +329,11 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Purchasing\\Supplier.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:24:41.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:24:41.379Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Model\\Billing\\Customer.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\Model\\Billing\\Customer.cs",
@@ -318,12 +341,11 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Billing\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:09:29.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:09:29.087Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Roaster.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Model\\HR\\Roaster.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\Model\\HR\\Roaster.cs",
@@ -331,12 +353,11 @@
               "RelativeToolTip": "LankaretailERP\\Model\\HR\\Roaster.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:05:18.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:05:18.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Role.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Model\\HR\\Role.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\Model\\HR\\Role.cs",
@@ -344,12 +365,11 @@
               "RelativeToolTip": "LankaretailERP\\Model\\HR\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:04:58.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:04:58.154Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Payroll.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Model\\HR\\Payroll.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\Model\\HR\\Payroll.cs",
@@ -357,12 +377,11 @@
               "RelativeToolTip": "LankaretailERP\\Model\\HR\\Payroll.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:04:02.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:04:02.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Model\\HR\\Employee.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\Model\\HR\\Employee.cs",
@@ -370,12 +389,11 @@
               "RelativeToolTip": "LankaretailERP\\Model\\HR\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:03:47.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:03:47.747Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Batch.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Model\\ProductManagement\\Batch.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\Model\\ProductManagement\\Batch.cs",
@@ -383,12 +401,11 @@
               "RelativeToolTip": "LankaretailERP\\Model\\ProductManagement\\Batch.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:00:53.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:00:53.376Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Model\\ProductManagement\\Category.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\Model\\ProductManagement\\Category.cs",
@@ -396,12 +413,11 @@
               "RelativeToolTip": "LankaretailERP\\Model\\ProductManagement\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T06:58:34.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T06:58:34.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Model\\ProductManagement\\Product.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\Model\\ProductManagement\\Product.cs",
@@ -409,12 +425,11 @@
               "RelativeToolTip": "LankaretailERP\\Model\\ProductManagement\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T06:58:15.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T06:58:15.388Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Warehouse.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Model\\Storage\\Warehouse.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\Model\\Storage\\Warehouse.cs",
@@ -422,12 +437,11 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Storage\\Warehouse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:00:36.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:00:36.484Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "StockMovement.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Model\\Storage\\StockMovement.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\Model\\Storage\\StockMovement.cs",
@@ -435,12 +449,11 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Storage\\StockMovement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:01:27.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:01:27.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Invoice.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Model\\Billing\\Invoice.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\Model\\Billing\\Invoice.cs",
@@ -448,12 +461,11 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Billing\\Invoice.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:09:51.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:09:51.03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "InvoiceItem.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Model\\Billing\\InvoiceItem.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\Model\\Billing\\InvoiceItem.cs",
@@ -461,12 +473,11 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Billing\\InvoiceItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:10:08.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:10:08.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "PaymentItem.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Model\\Billing\\PaymentItem.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\Model\\Billing\\PaymentItem.cs",
@@ -474,12 +485,11 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Billing\\PaymentItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:10:27.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:10:27.885Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\App.xaml.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\App.xaml.cs",
@@ -491,31 +501,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\App.xaml",
               "RelativeDocumentMoniker": "LankaretailERP\\App.xaml",
               "ToolTip": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\App.xaml",
               "RelativeToolTip": "LankaretailERP\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-27T18:23:35.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T18:23:35.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\MainWindow.xaml",
               "RelativeDocumentMoniker": "LankaretailERP\\MainWindow.xaml",
               "ToolTip": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\MainWindow.xaml",
               "RelativeToolTip": "LankaretailERP\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-27T18:15:49.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T18:15:49.594Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "LankaretailERP\\MainWindow.xaml.cs",

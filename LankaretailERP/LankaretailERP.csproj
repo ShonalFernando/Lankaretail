@@ -14,7 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="ViewModel\" />
     <Folder Include="View\Pages\" />
     <Folder Include="View\Windows\" />
   </ItemGroup>
