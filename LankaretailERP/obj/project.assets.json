@@ -2,6 +2,60 @@
   "version": 3,
   "targets": {
     "net8.0-windows7.0": {
+      "HandyControl/3.5.1": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/HandyControl.dll": {
+            "related": ".deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/HandyControl.dll": {
+            "related": ".deps.json;.xml"
+          }
+        }
+      },
+      "iNKORE.UI.WPF/1.2.8": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/iNKORE.UI.WPF.dll": {
+            "related": ".deps.json;.pdb"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/iNKORE.UI.WPF.dll": {
+            "related": ".deps.json;.pdb"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "iNKORE.UI.WPF.Modern/0.10.0": {
+        "type": "package",
+        "dependencies": {
+          "iNKORE.UI.WPF": "1.2.8"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/iNKORE.UI.WPF.Modern.Controls.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/net6.0-windows7.0/iNKORE.UI.WPF.Modern.dll": {
+            "related": ".Controls.pdb;.Controls.xml;.pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/iNKORE.UI.WPF.Modern.Controls.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/net6.0-windows7.0/iNKORE.UI.WPF.Modern.dll": {
+            "related": ".Controls.pdb;.Controls.xml;.pdb;.xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
       "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.1": {
         "type": "package",
         "compile": {
@@ -210,6 +264,113 @@
     }
   },
   "libraries": {
+    "HandyControl/3.5.1": {
+      "sha512": "i2i0xrLev7F1MFnhf0DP1CNCdGw8hVJ0HJrI0kxRv02ZJgaAzLzDTgAXDPY8GAoD3aYnBLSgM74lBHZ844KQnQ==",
+      "type": "package",
+      "path": "handycontrol/3.5.1",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "handycontrol.3.5.1.nupkg.sha512",
+        "handycontrol.nuspec",
+        "icon.png",
+        "lib/net40/HandyControl.dll",
+        "lib/net40/HandyControl.xml",
+        "lib/net45/HandyControl.dll",
+        "lib/net45/HandyControl.xml",
+        "lib/net451/HandyControl.dll",
+        "lib/net451/HandyControl.xml",
+        "lib/net452/HandyControl.dll",
+        "lib/net452/HandyControl.xml",
+        "lib/net46/HandyControl.dll",
+        "lib/net46/HandyControl.xml",
+        "lib/net461/HandyControl.dll",
+        "lib/net461/HandyControl.xml",
+        "lib/net462/HandyControl.dll",
+        "lib/net462/HandyControl.xml",
+        "lib/net47/HandyControl.dll",
+        "lib/net47/HandyControl.xml",
+        "lib/net471/HandyControl.dll",
+        "lib/net471/HandyControl.xml",
+        "lib/net472/HandyControl.dll",
+        "lib/net472/HandyControl.xml",
+        "lib/net48/HandyControl.dll",
+        "lib/net48/HandyControl.xml",
+        "lib/net481/HandyControl.dll",
+        "lib/net481/HandyControl.xml",
+        "lib/net5.0/HandyControl.deps.json",
+        "lib/net5.0/HandyControl.dll",
+        "lib/net5.0/HandyControl.xml",
+        "lib/net6.0/HandyControl.deps.json",
+        "lib/net6.0/HandyControl.dll",
+        "lib/net6.0/HandyControl.xml",
+        "lib/net7.0/HandyControl.deps.json",
+        "lib/net7.0/HandyControl.dll",
+        "lib/net7.0/HandyControl.xml",
+        "lib/net8.0/HandyControl.deps.json",
+        "lib/net8.0/HandyControl.dll",
+        "lib/net8.0/HandyControl.xml",
+        "lib/netcoreapp3.0/HandyControl.deps.json",
+        "lib/netcoreapp3.0/HandyControl.dll",
+        "lib/netcoreapp3.0/HandyControl.xml",
+        "lib/netcoreapp3.1/HandyControl.deps.json",
+        "lib/netcoreapp3.1/HandyControl.dll",
+        "lib/netcoreapp3.1/HandyControl.xml",
+        "tools/VisualStudioToolsManifest.xml"
+      ]
+    },
+    "iNKORE.UI.WPF/1.2.8": {
+      "sha512": "7b+z25JFdhGAfyJqlVIF0vLbmgsRvqDZMvhGPTz20gzQigDPMqVUOoCCKB5824GtYsjFCYNilmaowb+4yWATkQ==",
+      "type": "package",
+      "path": "inkore.ui.wpf/1.2.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "WpfLibrary_256w.png",
+        "inkore.ui.wpf.1.2.8.nupkg.sha512",
+        "inkore.ui.wpf.nuspec",
+        "lib/net452/iNKORE.UI.WPF.dll",
+        "lib/net452/iNKORE.UI.WPF.pdb",
+        "lib/net6.0-windows7.0/iNKORE.UI.WPF.deps.json",
+        "lib/net6.0-windows7.0/iNKORE.UI.WPF.dll",
+        "lib/net6.0-windows7.0/iNKORE.UI.WPF.pdb"
+      ]
+    },
+    "iNKORE.UI.WPF.Modern/0.10.0": {
+      "sha512": "PUuIzBPQGKnu/PDPa1/zcYCRvj8y89oamwUW+bXDrpMzIRi9Y6R24M6V0tz3iDtCQBKAW/be4coZvR93BqcoIA==",
+      "type": "package",
+      "path": "inkore.ui.wpf.modern/0.10.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "WpfLibrary_64w.png",
+        "inkore.ui.wpf.modern.0.10.0.nupkg.sha512",
+        "inkore.ui.wpf.modern.nuspec",
+        "lib/net452/iNKORE.UI.WPF.Modern.Controls.dll",
+        "lib/net452/iNKORE.UI.WPF.Modern.Controls.pdb",
+        "lib/net452/iNKORE.UI.WPF.Modern.Controls.xml",
+        "lib/net452/iNKORE.UI.WPF.Modern.dll",
+        "lib/net452/iNKORE.UI.WPF.Modern.pdb",
+        "lib/net452/iNKORE.UI.WPF.Modern.xml",
+        "lib/net6.0-windows10.0.18362/iNKORE.UI.WPF.Modern.Controls.deps.json",
+        "lib/net6.0-windows10.0.18362/iNKORE.UI.WPF.Modern.Controls.dll",
+        "lib/net6.0-windows10.0.18362/iNKORE.UI.WPF.Modern.Controls.pdb",
+        "lib/net6.0-windows10.0.18362/iNKORE.UI.WPF.Modern.Controls.xml",
+        "lib/net6.0-windows10.0.18362/iNKORE.UI.WPF.Modern.dll",
+        "lib/net6.0-windows10.0.18362/iNKORE.UI.WPF.Modern.pdb",
+        "lib/net6.0-windows10.0.18362/iNKORE.UI.WPF.Modern.xml",
+        "lib/net6.0-windows7.0/iNKORE.UI.WPF.Modern.Controls.dll",
+        "lib/net6.0-windows7.0/iNKORE.UI.WPF.Modern.Controls.pdb",
+        "lib/net6.0-windows7.0/iNKORE.UI.WPF.Modern.Controls.xml",
+        "lib/net6.0-windows7.0/iNKORE.UI.WPF.Modern.dll",
+        "lib/net6.0-windows7.0/iNKORE.UI.WPF.Modern.pdb",
+        "lib/net6.0-windows7.0/iNKORE.UI.WPF.Modern.xml"
+      ]
+    },
     "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.1": {
       "sha512": "fGLiCRLMYd00JYpClraLjJTNKLmMJPnqxMaiRzEBIIvevlzxz33mXy39Lkd48hu1G+N21S7QpaO5ZzKsI6FRuA==",
       "type": "package",
@@ -544,8 +705,10 @@
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
+      "HandyControl >= 3.5.1",
       "Prism.Unity >= 9.0.537",
-      "Prism.Wpf >= 9.0.537"
+      "Prism.Wpf >= 9.0.537",
+      "iNKORE.UI.WPF.Modern >= 0.10.0"
     ]
   },
   "packageFolders": {
@@ -598,6 +761,10 @@
       "net8.0-windows7.0": {
         "targetAlias": "net8.0-windows",
         "dependencies": {
+          "HandyControl": {
+            "target": "Package",
+            "version": "[3.5.1, )"
+          },
           "Prism.Unity": {
             "target": "Package",
             "version": "[9.0.537, )"
@@ -605,6 +772,10 @@
           "Prism.Wpf": {
             "target": "Package",
             "version": "[9.0.537, )"
+          },
+          "iNKORE.UI.WPF.Modern": {
+            "target": "Package",
+            "version": "[0.10.0, )"
           }
         },
         "imports": [

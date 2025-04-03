@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 D:\Source\Repos\Lankaretail\LankaretailERP\App.xaml
-11407045341
-
-29-1178030896
-208-1816769875
-MainWindow.xaml;
+7198328232
+2-1779316701
+381004695947
+212-871921432
+MainWindow.xaml;Views\AuthenticationView.xaml;Views\Controls\SignIn.xaml;Views\Controls\SignUp.xaml;Views\Pages\Home\HomePage.xaml;Views\Windows\AuthMasterView.xaml;Views\Windows\ShellWindow.xaml;
 
 False
 
