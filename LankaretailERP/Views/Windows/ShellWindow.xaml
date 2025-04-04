@@ -55,7 +55,7 @@
         </ui:NavigationView.MenuItems>
 
         <Border>
-            <Frame Source="/View/Pages/Home/HomePage.xaml" />
+            <TextBlock Text="TEST" />
         </Border>
 
     </ui:NavigationView>

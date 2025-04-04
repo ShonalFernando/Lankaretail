@@ -1,4 +1,7 @@
-﻿using System;
+﻿using HandyControl.Controls;
+using LankaretailERP.Services.AuthenticationService;
+using LankaretailERP.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,6 +26,25 @@ namespace LankaretailERP.Views.Controls
         public SignIn()
         {
             InitializeComponent();
+            InitializeUserInterfaces();
+        }
+
+        private void InitializeUserInterfaces()
+        {
+            SignIn_Outputs_PaswordError.Text = "Please Enter a Password";
+        }
+
+        private void UserChangesPassword(object sender, RoutedEventArgs e)
+        {
+            if (DataContext is AuthenticationViewModel vm)
+            {
+                vm.Password = SignIn_Inputs_PasswordBox.Password;
+
+                // Ask ViewModel for error (if using IDataErrorInfo or FluentValidation)
+                var error = vm[nameof(vm.Password)];
+
+                SignIn_Outputs_PaswordError.Text = string.IsNullOrWhiteSpace(error) ? "" : error;
+            }
         }
     }
 }

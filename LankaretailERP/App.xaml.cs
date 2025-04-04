@@ -1,4 +1,6 @@
-﻿using LankaretailERP.View;
+﻿using LankaretailERP.Services.AuthenticationService;
+using LankaretailERP.Services;
+using LankaretailERP.View;
 using LankaretailERP.View.Windows;
 using LankaretailERP.ViewModel;
 using LankaretailERP.ViewModels;
@@ -28,8 +30,11 @@ namespace LankaretailERP
             containerRegistry.RegisterForNavigation<SignUp>();
             containerRegistry.RegisterSingleton<IRegionManager, RegionManager>();
 
+            // Navigation Registration
             containerRegistry.RegisterForNavigation<AuthenticationView, AuthenticationViewModel>();
 
+            // Other Services
+            containerRegistry.RegisterSingleton<IAuthenticationService, AuthenticationService>();
 
         }
     }

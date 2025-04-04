@@ -44,10 +44,12 @@ D:\Source\Repos\Lankaretail\LankaretailERP\obj\Debug\net8.0-windows\Views\Contro
 D:\Source\Repos\Lankaretail\LankaretailERP\obj\Debug\net8.0-windows\Views\Pages\Home\HomePage.g.cs
 D:\Source\Repos\Lankaretail\LankaretailERP\obj\Debug\net8.0-windows\Views\Windows\AuthMasterView.g.cs
 D:\Source\Repos\Lankaretail\LankaretailERP\obj\Debug\net8.0-windows\Views\Windows\ShellWindow.g.cs
-D:\Source\Repos\Lankaretail\LankaretailERP\obj\Debug\net8.0-windows\Views\AuthenticationView.g.cs
-D:\Source\Repos\Lankaretail\LankaretailERP\obj\Debug\net8.0-windows\Views\AuthenticationView.baml
 D:\Source\Repos\Lankaretail\LankaretailERP\obj\Debug\net8.0-windows\Views\Controls\SignIn.baml
 D:\Source\Repos\Lankaretail\LankaretailERP\obj\Debug\net8.0-windows\Views\Controls\SignUp.baml
 D:\Source\Repos\Lankaretail\LankaretailERP\obj\Debug\net8.0-windows\Views\Pages\Home\HomePage.baml
 D:\Source\Repos\Lankaretail\LankaretailERP\obj\Debug\net8.0-windows\Views\Windows\AuthMasterView.baml
 D:\Source\Repos\Lankaretail\LankaretailERP\obj\Debug\net8.0-windows\Views\Windows\ShellWindow.baml
+D:\Source\Repos\Lankaretail\LankaretailERP\obj\Debug\net8.0-windows\Views\Windows\AuthenticationView.g.cs
+D:\Source\Repos\Lankaretail\LankaretailERP\obj\Debug\net8.0-windows\Views\Windows\AuthenticationView.baml
+D:\Source\Repos\Lankaretail\LankaretailERP\bin\Debug\net8.0-windows\FluentValidation.dll
+D:\Source\Repos\Lankaretail\LankaretailERP\bin\Debug\net8.0-windows\FluentValidator.dll

@@ -8,7 +8,7 @@
              d:DesignHeight="450" d:DesignWidth="800">
     <StackPanel x:Name="stackPanel1" Grid.Row="1" Grid.ColumnSpan="2" Margin="15,15,0,0">
         <TextBlock Text="Your Email" Foreground="#FF66A1F1" FontSize="14"/>
-        <TextBox Margin="0,5,10,0" Background="{x:Null}" CaretBrush="#FF73ABF7" SelectionBrush="#FFCC9CCC" Foreground="#FFB9CFFA">
+        <TextBox Margin="0,5,10,0" Background="{x:Null}" CaretBrush="#FF73ABF7" SelectionBrush="#FFE47F27" Foreground="#FFB9CFFA" Text="{Binding Username, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}">
             <TextBox.BorderBrush>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="#00000000" Offset="0.903"/>
@@ -17,7 +17,7 @@
             </TextBox.BorderBrush>
         </TextBox>
         <TextBlock Text="Your Password" Foreground="#FF66A1F1" FontSize="14" Margin="0,25,0,0"/>
-        <PasswordBox Margin="0,5,10,0" Background="{x:Null}" CaretBrush="#FF73ABF7" SelectionBrush="#FFCC9CCC" Foreground="#FFB9CFFA">
+        <PasswordBox Margin="0,5,10,0" Background="{x:Null}" CaretBrush="#FF73ABF7" SelectionBrush="#FFE47F27" Foreground="#FFB9CFFA" PasswordChanged="UserChangesPassword" x:Name="SignIn_Inputs_PasswordBox" >
             <PasswordBox.BorderBrush>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="#00000000" Offset="0.903"/>
@@ -25,7 +25,8 @@
                 </LinearGradientBrush>
             </PasswordBox.BorderBrush>
         </PasswordBox>
-        <Button Content="Sign In" Margin="0,30,0,0" Width="250" BorderBrush="{x:Null}" Foreground="#FFEDEDED">
+        <TextBlock x:Name="SignIn_Outputs_PaswordError" Foreground="#FFE83143"/>
+        <Button Content="Sign In" Margin="0,30,0,0" Width="250" BorderBrush="{x:Null}" Foreground="#FFEDEDED" Command="{Binding SignInCommand}">
             <Button.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="#FF4189E4" Offset="0"/>

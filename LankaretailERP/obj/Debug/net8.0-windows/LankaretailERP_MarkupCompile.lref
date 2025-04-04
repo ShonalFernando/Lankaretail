@@ -1,10 +1,10 @@
 ﻿
 FD:\Source\Repos\Lankaretail\LankaretailERP\App.xaml;;
 FD:\Source\Repos\Lankaretail\LankaretailERP\MainWindow.xaml;;
-FD:\Source\Repos\Lankaretail\LankaretailERP\Views\AuthenticationView.xaml;;
 FD:\Source\Repos\Lankaretail\LankaretailERP\Views\Controls\SignIn.xaml;;
 FD:\Source\Repos\Lankaretail\LankaretailERP\Views\Controls\SignUp.xaml;;
 FD:\Source\Repos\Lankaretail\LankaretailERP\Views\Pages\Home\HomePage.xaml;;
+FD:\Source\Repos\Lankaretail\LankaretailERP\Views\Windows\AuthenticationView.xaml;;
 FD:\Source\Repos\Lankaretail\LankaretailERP\Views\Windows\AuthMasterView.xaml;;
 FD:\Source\Repos\Lankaretail\LankaretailERP\Views\Windows\ShellWindow.xaml;;
 
