@@ -77,7 +77,7 @@ namespace LankaretailERP.Views.Controls {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/LankaretailERP;V1.0.0.0;component/views/controls/signin.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/LankaretailERP;component/views/controls/signin.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Views\Controls\SignIn.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

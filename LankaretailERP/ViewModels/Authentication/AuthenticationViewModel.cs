@@ -32,6 +32,9 @@ namespace LankaretailERP.ViewModels
             SignUpCommand = new DelegateCommand(SignUp);
             ExitCommand = new DelegateCommand(Exit);
 
+
+            // TEST TEST TEST TEST
+            // Task.Run(() => _authService.SignUpAsync("","").GetAwaiter().GetResult());
             //GotoAboutCommand = new DelegateCommand(() => NavigateTo("AboutView"));
             //GotoPrivacyCommand = new DelegateCommand(() => NavigateTo("PrivacyView"));
         }
@@ -101,8 +104,9 @@ namespace LankaretailERP.ViewModels
         // Authentication Logic (Placeholder)
         private void SignIn()
         {
+            var result = (Task.Run(() =>_authService.Login(Username, Password)).Result);
             // Perform Sign-in logic
-            if(_authService.Login(Username, Password))
+            if(result.Item1)
                 {
                 // Show Shell
                 var shell = new ShellWindow(); // Or resolve via container
@@ -114,7 +118,12 @@ namespace LankaretailERP.ViewModels
                 .FirstOrDefault(w => w.DataContext == this)
                 ?.Close();
                 }
+            else
+            {
+                HandyControl.Controls.MessageBox.Show(result.Item2);
             }
+        }
+
 
         private void SignUp()
         {

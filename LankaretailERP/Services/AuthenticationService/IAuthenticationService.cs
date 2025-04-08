@@ -9,8 +9,9 @@ namespace LankaretailERP.Services
 {
     public interface IAuthenticationService
     {
-        bool Login(string username, string password);
+        Task<(bool,string)> Login(string username, string password);
         void Logout();
+        Task<bool> SignUpAsync(string username, string password);
         bool IsAuthenticated { get; }
         User CurrentUser { get; }
     }

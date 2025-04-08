@@ -1,4 +1,4 @@
-﻿using LankaretailERP.Services.DataRepository;
+﻿using LankaretailERP.Data.DataRepository;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;

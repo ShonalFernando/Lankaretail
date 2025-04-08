@@ -68,7 +68,7 @@ namespace LankaretailERP.View.Windows {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/LankaretailERP;V1.0.0.0;component/views/windows/shellwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/LankaretailERP;component/views/windows/shellwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Views\Windows\ShellWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

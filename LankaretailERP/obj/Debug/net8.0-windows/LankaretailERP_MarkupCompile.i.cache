@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 D:\Source\Repos\Lankaretail\LankaretailERP\App.xaml
 7-858588867
 2-1779316701
-43496230768
-2141046710323
+45-1096394115
+234-663937957
 MainWindow.xaml;Views\Controls\SignIn.xaml;Views\Controls\SignUp.xaml;Views\Pages\Home\HomePage.xaml;Views\Windows\AuthenticationView.xaml;Views\Windows\AuthMasterView.xaml;Views\Windows\ShellWindow.xaml;
 
-True
+False
 

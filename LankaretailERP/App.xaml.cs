@@ -10,6 +10,10 @@ using System.ComponentModel;
 using System.Configuration;
 using System.Data;
 using System.Windows;
+using Microsoft.EntityFrameworkCore;
+using LankaretailERP.Model;
+using LankaretailERP.Data.SQLite;
+using LankaretailERP.Data.DataRepository;
 
 namespace LankaretailERP
 {
@@ -29,6 +33,17 @@ namespace LankaretailERP
             containerRegistry.RegisterForNavigation<SignIn>();
             containerRegistry.RegisterForNavigation<SignUp>();
             containerRegistry.RegisterSingleton<IRegionManager, RegionManager>();
+
+            // DBContext : SQLite
+            var options = new DbContextOptionsBuilder<SqliteDbContext>()
+                .UseSqlite("Data Source=appdata.db")
+                .Options;
+
+            var dbContext = new SqliteDbContext(options);
+            dbContext.Database.EnsureCreated();
+
+            containerRegistry.RegisterInstance(dbContext);
+            containerRegistry.Register<IDataRepository<User>, SqliteUserRepository>();
 
             // Navigation Registration
             containerRegistry.RegisterForNavigation<AuthenticationView, AuthenticationViewModel>();
