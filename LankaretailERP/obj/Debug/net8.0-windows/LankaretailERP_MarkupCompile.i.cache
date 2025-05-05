@@ -16,5 +16,5 @@ D:\Source\Repos\Lankaretail\LankaretailERP\App.xaml
 234-663937957
 MainWindow.xaml;Views\Controls\SignIn.xaml;Views\Controls\SignUp.xaml;Views\Pages\Home\HomePage.xaml;Views\Windows\AuthenticationView.xaml;Views\Windows\AuthMasterView.xaml;Views\Windows\ShellWindow.xaml;
 
-False
+True
 
