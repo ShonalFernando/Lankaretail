@@ -216,7 +216,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -224,7 +224,27 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
@@ -236,8 +256,7 @@
               "RelativeToolTip": "LankaretailERP\\Data\\SQLite\\SqliteUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T12:29:06.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T12:29:06.136Z"
             },
             {
               "$type": "Document",
@@ -249,8 +268,7 @@
               "RelativeToolTip": "LankaretailERP\\Data\\SQLite\\SqliteDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T12:27:06.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T12:27:06.412Z"
             },
             {
               "$type": "Document",
@@ -262,8 +280,7 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Authorization\\AuditLog.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:38:53.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:38:53.363Z"
             },
             {
               "$type": "Document",
@@ -287,8 +304,7 @@
               "RelativeToolTip": "LankaretailERP\\App.xaml.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T18:23:38.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T18:23:38.273Z"
             },
             {
               "$type": "Document",
@@ -299,8 +315,7 @@
               "ToolTip": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Views\\Windows\\AuthenticationView.xaml",
               "RelativeToolTip": "LankaretailERP\\Views\\Windows\\AuthenticationView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-04T06:37:12.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T06:37:12.666Z"
             },
             {
               "$type": "Document",
@@ -324,8 +339,7 @@
               "RelativeToolTip": "LankaretailERP\\Services\\AuthenticationService\\IAuthenticationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T06:27:53.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T06:27:53.138Z"
             },
             {
               "$type": "Document",
@@ -337,8 +351,7 @@
               "RelativeToolTip": "LankaretailERP\\Services\\AuthenticationService\\AuthenticationService.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAcwDQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T06:28:24.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T06:28:24.957Z"
             },
             {
               "$type": "Document",
@@ -350,8 +363,7 @@
               "RelativeToolTip": "LankaretailERP\\ViewModels\\Authentication\\AuthenticationViewModel.cs",
               "ViewState": "AgIAAFsAAAAAAAAAAAAcwHoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T12:31:14.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T12:31:14.408Z"
             },
             {
               "$type": "Document",
@@ -362,8 +374,7 @@
               "ToolTip": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\LankaretailERP.csproj",
               "RelativeToolTip": "LankaretailERP\\LankaretailERP.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-08T11:59:48.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T11:59:48.682Z"
             },
             {
               "$type": "Document",
@@ -375,8 +386,7 @@
               "RelativeToolTip": "LankaretailERP\\Validators\\AuthenticationValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T11:53:44.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T11:53:44.518Z"
             },
             {
               "$type": "Document",
@@ -388,8 +398,7 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Authorization\\User.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAABBwBgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:38:25.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:38:25.112Z"
             },
             {
               "$type": "Document",
@@ -401,8 +410,7 @@
               "RelativeToolTip": "LankaretailERP\\Data\\DataRepository\\IDataRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T16:03:12.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T16:03:12.245Z"
             },
             {
               "$type": "Document",
@@ -414,8 +422,7 @@
               "RelativeToolTip": "LankaretailERP\\Views\\Windows\\ShellWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T12:30:30.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T12:30:30.324Z"
             },
             {
               "$type": "Document",
@@ -436,8 +443,7 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Rewards\\Coupon.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAmwBAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:44:01.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:44:01.686Z"
             },
             {
               "$type": "Document",
@@ -449,8 +455,7 @@
               "RelativeToolTip": "LankaretailERP\\ViewModels\\Dyanamics\\DynamicViewModel.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAswDQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T15:54:55.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T15:54:55.721Z"
             },
             {
               "$type": "Document",
@@ -462,8 +467,7 @@
               "RelativeToolTip": "LankaretailERP\\Views\\Controls\\SignIn.xaml.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAMwDAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T15:29:03.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T15:29:03.627Z"
             },
             {
               "$type": "Document",
@@ -474,8 +478,7 @@
               "ToolTip": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Views\\Controls\\SignIn.xaml",
               "RelativeToolTip": "LankaretailERP\\Views\\Controls\\SignIn.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-04T12:21:33.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T12:21:33.312Z"
             },
             {
               "$type": "Document",
@@ -487,8 +490,7 @@
               "RelativeToolTip": "LankaretailERP\\Views\\Windows\\AuthenticationView.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T15:26:01.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T15:26:01.317Z"
             },
             {
               "$type": "Document",
@@ -509,8 +511,7 @@
               "RelativeToolTip": "LankaretailERP\\Views\\Controls\\SignUp.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T15:24:28.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T15:24:28.975Z"
             },
             {
               "$type": "Document",
@@ -521,8 +522,7 @@
               "ToolTip": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Views\\Windows\\AuthMasterView.xaml",
               "RelativeToolTip": "LankaretailERP\\Views\\Windows\\AuthMasterView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-03T15:15:30.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T15:15:30.09Z"
             },
             {
               "$type": "Document",
@@ -534,8 +534,7 @@
               "RelativeToolTip": "LankaretailERP\\Views\\Windows\\AuthMasterView.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T15:10:53.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T15:10:53.784Z"
             },
             {
               "$type": "Document",
@@ -546,8 +545,7 @@
               "ToolTip": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Views\\Controls\\SignUp.xaml",
               "RelativeToolTip": "LankaretailERP\\Views\\Controls\\SignUp.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-03T15:24:26.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T15:24:26.863Z"
             },
             {
               "$type": "Document",
@@ -558,8 +556,7 @@
               "ToolTip": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Views\\Pages\\Home\\HomePage.xaml",
               "RelativeToolTip": "LankaretailERP\\Views\\Pages\\Home\\HomePage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-03T12:25:00.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T12:25:00.027Z"
             },
             {
               "$type": "Document",
@@ -570,8 +567,7 @@
               "ToolTip": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\Documentation\\LankaRetailClasses.cd",
               "RelativeToolTip": "LankaretailERP\\Documentation\\LankaRetailClasses.cd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000968|",
-              "WhenOpened": "2025-04-03T11:51:07.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T11:51:07.924Z"
             },
             {
               "$type": "Document",
@@ -582,8 +578,7 @@
               "ToolTip": "D:\\Source\\Repos\\Lankaretail\\LankaretailERP\\MainWindow.xaml",
               "RelativeToolTip": "LankaretailERP\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-27T18:15:49.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T18:15:49.594Z"
             },
             {
               "$type": "Document",
@@ -595,8 +590,7 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Rewards\\LoyaltyProgram.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:44:22.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:44:22.561Z"
             },
             {
               "$type": "Document",
@@ -608,8 +602,7 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Rewards\\Promotion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:43:21.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:43:21.152Z"
             },
             {
               "$type": "Document",
@@ -621,8 +614,7 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Reporting\\EmployeePerformance.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:35:17.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:35:17.461Z"
             },
             {
               "$type": "Document",
@@ -634,8 +626,7 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Reporting\\InventoryReport.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:34:52.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:34:52.981Z"
             },
             {
               "$type": "Document",
@@ -647,8 +638,7 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Reporting\\SalesReport.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:34:30.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:34:30.468Z"
             },
             {
               "$type": "Document",
@@ -660,8 +650,7 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Purchasing\\GoodsRecieved.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:26:05.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:26:05.514Z"
             },
             {
               "$type": "Document",
@@ -673,8 +662,7 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Purchasing\\PurchaseOrderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:25:28.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:25:28.277Z"
             },
             {
               "$type": "Document",
@@ -686,8 +674,7 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Purchasing\\PurchaseOrder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:25:01.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:25:01.666Z"
             },
             {
               "$type": "Document",
@@ -699,8 +686,7 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Purchasing\\Supplier.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:24:41.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:24:41.379Z"
             },
             {
               "$type": "Document",
@@ -712,8 +698,7 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Billing\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:09:29.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:09:29.087Z"
             },
             {
               "$type": "Document",
@@ -725,8 +710,7 @@
               "RelativeToolTip": "LankaretailERP\\Model\\HR\\Roaster.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:05:18.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:05:18.25Z"
             },
             {
               "$type": "Document",
@@ -738,8 +722,7 @@
               "RelativeToolTip": "LankaretailERP\\Model\\HR\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:04:58.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:04:58.154Z"
             },
             {
               "$type": "Document",
@@ -751,8 +734,7 @@
               "RelativeToolTip": "LankaretailERP\\Model\\HR\\Payroll.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:04:02.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:04:02.962Z"
             },
             {
               "$type": "Document",
@@ -764,8 +746,7 @@
               "RelativeToolTip": "LankaretailERP\\Model\\HR\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:03:47.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:03:47.747Z"
             },
             {
               "$type": "Document",
@@ -777,8 +758,7 @@
               "RelativeToolTip": "LankaretailERP\\Model\\ProductManagement\\Batch.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:00:53.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:00:53.376Z"
             },
             {
               "$type": "Document",
@@ -790,8 +770,7 @@
               "RelativeToolTip": "LankaretailERP\\Model\\ProductManagement\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T06:58:34.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T06:58:34.597Z"
             },
             {
               "$type": "Document",
@@ -803,8 +782,7 @@
               "RelativeToolTip": "LankaretailERP\\Model\\ProductManagement\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T06:58:15.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T06:58:15.388Z"
             },
             {
               "$type": "Document",
@@ -816,8 +794,7 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Storage\\Warehouse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:00:36.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:00:36.484Z"
             },
             {
               "$type": "Document",
@@ -829,8 +806,7 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Storage\\StockMovement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:01:27.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:01:27.809Z"
             },
             {
               "$type": "Document",
@@ -842,8 +818,7 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Billing\\Invoice.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:09:51.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:09:51.03Z"
             },
             {
               "$type": "Document",
@@ -855,8 +830,7 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Billing\\InvoiceItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:10:08.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:10:08.209Z"
             },
             {
               "$type": "Document",
@@ -868,8 +842,7 @@
               "RelativeToolTip": "LankaretailERP\\Model\\Billing\\PaymentItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T07:10:27.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:10:27.885Z"
             },
             {
               "$type": "Document",
@@ -881,24 +854,11 @@
               "RelativeToolTip": "LankaretailERP\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T18:15:45.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2025-03-27T18:15:45.582Z"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }
